@@ -11,13 +11,13 @@ http://www.cnblogs.com/chenxygx/p/5462586.html --MVC
 http://www.cnblogs.com/lvdabao/p/5953884.html -- webpack
 http://blog.csdn.net/qq_34348873/article/details/52572008 --resource
 http://www.cnblogs.com/zjneter/p/5348429.html  --resource
-http://www.cnblogs.com/handoing/p/5991197.html --?????????
-http://www.cnblogs.com/MR-YY/archive/2016/10/18/5972380.html-- webapi??
+http://www.cnblogs.com/handoing/p/5991197.html --
+http://www.cnblogs.com/MR-YY/archive/2016/10/18/5972380.html-- webapi
 http://cn.redux.js.org/docs/introduction/PriorArt.html --redux
 http://1ke.co/course/604 --redux demo
 
 http://www.cnblogs.com/zhanggui/p/6003481.html --git
-http://www.cnblogs.com/sunkaixuan/p/6003528.html -- ??ORM
+http://www.cnblogs.com/sunkaixuan/p/6003528.html -- ORM
 http://www.cnblogs.com/neverc/p/6006274.html --webapi
 http://www.cnblogs.com/zhang740/p/3865636.html --webapi security issues
 http://www.cnblogs.com/zhang740/p/3865394.html --webapi
