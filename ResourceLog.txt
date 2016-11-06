@@ -21,3 +21,5 @@ http://www.cnblogs.com/sunkaixuan/p/6003528.html -- ORM
 http://www.cnblogs.com/neverc/p/6006274.html --webapi
 http://www.cnblogs.com/zhang740/p/3865636.html --webapi security issues
 http://www.cnblogs.com/zhang740/p/3865394.html --webapi
+
+http://www.cnblogs.com/xishuai/p/repository-return-iqueryable-or-ienumerable.html --IQuery
