@@ -23,3 +23,13 @@ http://www.cnblogs.com/zhang740/p/3865636.html --webapi security issues
 http://www.cnblogs.com/zhang740/p/3865394.html --webapi
 
 http://www.cnblogs.com/xishuai/p/repository-return-iqueryable-or-ienumerable.html --IQuery
+
+
+http://www.cnblogs.com/onepixel/p/6034307.html -- val.js
+http://www.cnblogs.com/wj204/p/6031435.html --val.js webpack
+https://github.com/expressjs/multer -node express upload
+https://github.com/luckykun/About-React/tree/master/react-antd-demo react demo
+http://www.cnblogs.com/xcj26/p/6037808.html -- log
+http://www.cnblogs.com/jarson-7426/p/6037560.html - react demo
+http://www.cnblogs.com/tgzhu/p/6033373.html --presto search
+http://www.cnblogs.com/zhangweizhong/p/4969240.html redis
