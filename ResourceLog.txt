@@ -28,8 +28,30 @@ http://www.cnblogs.com/xishuai/p/repository-return-iqueryable-or-ienumerable.htm
 http://www.cnblogs.com/onepixel/p/6034307.html -- val.js
 http://www.cnblogs.com/wj204/p/6031435.html --val.js webpack
 https://github.com/expressjs/multer -node express upload
+http://www.cnblogs.com/best/p/6112137.html
+
+http://www.cnblogs.com/kmonkeywyl/p/5959008.html --jquery?????
 https://github.com/luckykun/About-React/tree/master/react-antd-demo react demo
 http://www.cnblogs.com/xcj26/p/6037808.html -- log
 http://www.cnblogs.com/jarson-7426/p/6037560.html - react demo
 http://www.cnblogs.com/tgzhu/p/6033373.html --presto search
-http://www.cnblogs.com/zhangweizhong/p/4969240.html redis
+http://www.cnblogs.com/zhangweizhong/p/4969240.html --redis
+https://github.com/magicdict/MongoCola/
+http://www.cnblogs.com/keepfool/p/5470423.htmly
+http://www.gulpjs.com.cn/docs/getting-started/
+http://www.cnblogs.com/QRL909109/p/5620824.html#3461470
+http://www.cnblogs.com/Erik_Xu/p/5655520.html
+
+http://www.cnblogs.com/wangfupeng1988/p/5302738.html
+
+Microsoft.Owin.Cors
+
+http://www.cnblogs.com/zhiyuan-2011/p/5304754.html
+http://www.cnblogs.com/manfredHu/p/6045172.html
+http://www.cnblogs.com/sakurayeah/p/5944540.html
+
+http://www.cnblogs.com/kmonkeywyl/p/5959008.html --jquery customer form
+
+http://www.cnblogs.com/lewis617/p/5145073.html react+redux demo
+http://www.cnblogs.com/bymax/p/6108431.html node crawl
+
